@@ -24,9 +24,3 @@
 ### 🌱 Current Learning Focus
 
 I'm on a continuous learning journey. At the moment, I'm delving deeper into Artificial Intelligence, and I'm excited to share my progress with you.
-
-<!-- ### 📫 Let's Connect -->
-
-<!-- - 📧 You can reach me via email at [emailhere]. -->
-<!-- - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/moayad-alfawwar) to see more about my professional journey. -->
-
