@@ -1,4 +1,4 @@
-# Hi I'm Mo'ayad (Moe) 🌒 مؤيد 
+# Hi I'm Mo'ayad (Moe) 🌒 مؤيد
 
 - 💡 Interests
 
@@ -6,15 +6,15 @@
 
 - 🌱 Current Learning Focus
 
-    I'm on a continuous learning journey. At the moment, I'm delving deeper into Artificial Intelligence, and I'm excited to share my progress with you.
+  I'm on a continuous learning journey. At the moment, I'm delving deeper into Artificial Intelligence, and I'm excited to share my progress with you.
 
 - 🤝 Looking collaboration
 
-   AI/Data Science projects. 
+  AI/Data Science projects.
 
 - 🎨 Fun
 
-    I love to use my spare time doing hikes, photography, consume and create art, and stargazing 🌌 🔭
+  I'm passionate about hiking, photography, art, and exploring the night sky through stargazing. 🌌 🔭
 
 ## Tech Stack
 
@@ -34,9 +34,8 @@
 ![Static Badge](https://img.shields.io/badge/gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&logoSize=auto)
 
-
-
 ### 💻 Software Engineering
+
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=black)
@@ -59,9 +58,8 @@
 ![Static Badge](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white&logoSize=auto)
 
-
-
 ### 🐳 Containerization and ⚙️ Automation
+
 ![Static Badge](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&logoSize=auto)
@@ -71,14 +69,13 @@
 ![Static Badge](https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&logoSize=auto)
 
-
 ### 🧩 Miscellaneous
 
 ![Static Badge](https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=black&logoSize=auto)
 
+### 📫 Let's Connect
 
-### 📫 Let's Connect 
 <a href="https://www.linkedin.com/in/moayad-alfawwar"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto">
 </a>
 <a href="http://discordapp.com/users/dmoayad">
